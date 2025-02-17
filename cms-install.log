@@ -1,0 +1,2 @@
+[2025-02-17T10:18:22.891770+00:00] app.INFO: Environment 'Production' will be created. {environment:{App\Entity\Environment:Environment: 13377 - Production}} {environment:{App\Entity\Environment:Environment: 13377 - Production}}
+[2025-02-17T10:20:47.933235+00:00] app.INFO: Environment 'Production' is successfully created. {environment:{App\Entity\Environment:Environment: 13377 - Production}} {environment:{App\Entity\Environment:Environment: 13377 - Production}}
